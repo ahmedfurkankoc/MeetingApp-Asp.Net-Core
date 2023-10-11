@@ -1,6 +1,6 @@
 # MeetingApp-ASP.NET-Core 7.0
 
-gededed
+Meeting App with MVC models
 
 ## Contents
 - Views
