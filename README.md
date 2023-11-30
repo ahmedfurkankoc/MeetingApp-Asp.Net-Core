@@ -1,4 +1,4 @@
-# MeetingApp-ASP.NET-Core 7.0
+# MeetingApp ASP.NET Core 7.0
 
 Meeting App with MVC models
 
